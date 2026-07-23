@@ -1,6 +1,6 @@
 # Hi, I'm Sachini Weligamage
 
-**Data Engineer | BI & Data Analytics Engineer **
+**Data Engineer | BI & Data Analytics Engineer**
 
 
 ## About Me
@@ -72,7 +72,7 @@ reliable, cost efficient data systems that turn raw data into trustworthy, decis
 
 ##  Publications
 
-- **“Cloud Movement Analysis using Lucas Kanade Method” in IEEE conference proceedings at 3rd
+- **“Cloud Movement Analysis using Lucas Kanade Method”** in IEEE conference proceedings at 3rd
   International Conference on Electrical Engineering (EECon) hosted by the University of Moratuwa — *September 2021*
 
 ---
